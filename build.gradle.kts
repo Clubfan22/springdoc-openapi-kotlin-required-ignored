@@ -21,6 +21,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	implementation("org.springframework.boot:spring-boot-starter-web")
 	implementation("org.springdoc:springdoc-openapi-ui:1.5.10")
+	implementation("org.openapitools:jackson-databind-nullable:0.2.1")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
